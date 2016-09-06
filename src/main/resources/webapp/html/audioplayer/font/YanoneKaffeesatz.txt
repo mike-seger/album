@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'Yanone Kaffeesatz';
+  font-style: normal;
+  font-weight: 200;
+  src: local('Yanone Kaffeesatz ExtraLight'), 
+  	local('YanoneKaffeesatz-ExtraLight'), 
+  	url('/audioplayer/font/YanoneKaffeesatz-ExtraLight.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Yanone Kaffeesatz';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Yanone Kaffeesatz Light'), 
+  local('YanoneKaffeesatz-Light'), 
+  url('/html/audioplayer/font/YanoneKaffeesatz-Light.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Yanone Kaffeesatz';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Yanone Kaffeesatz Regular'), 
+  local('YanoneKaffeesatz-Regular'), 
+  url('/audioplayer/font/YanoneKaffeesatz-Regular.ttf') format('truetype');
+}
