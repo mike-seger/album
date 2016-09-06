@@ -9,6 +9,6 @@ public final class ServerBI
 
    public static final String NAME = "album-bot";
 
-   public static final String buildDate = "2016-09-06T14:23:20+0200";
+   public static final String buildDate = "2016-09-06T14:27:00+0200";
 
 }
